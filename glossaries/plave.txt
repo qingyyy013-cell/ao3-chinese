@@ -1,13 +1,21 @@
 维护者：Kiiyu
-版本号：1.0.2
-更新时间：2025-08-14
+版本号：1.0.3
+更新时间：2025-08-
 
 词条
 
 //角色
+Nam：南
 Yejun：艺俊
 Eunho：银虎
+Yu：柳
 Hamin：河玟
 Bamby：斑比
+Chae：蔡
 Bonggu：丰玖
 Noah：诺亚
+Han：韩
+
+//其他
+hyung：哥
+Master：主人

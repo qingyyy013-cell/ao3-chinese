@@ -1,6 +1,6 @@
 维护者：Kiiyu
-版本号：1.0.3
-更新时间：2025-08-15
+版本号：1.0.4
+更新时间：2025-08-16
 
 词条
 
@@ -8,6 +8,7 @@
 Nam：南
 Yejun：艺俊
 Eunho：银虎
+Do Eunho：都银虎
 Yu：柳
 Hamin：河玟
 Bamby：斑比
@@ -15,6 +16,9 @@ Chae：蔡
 Bonggu：丰玖
 Noah：诺亚
 Han：韩
+
+//组合
+Eunby：银斑
 
 //其他
 hyung：哥
